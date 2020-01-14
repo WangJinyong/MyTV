@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="textview_title">
+        <item name="android:layout_width">match_parent</item><!--设置宽-->
+        <item name="android:layout_height">46dp</item><!--设置高-->
+        <item name="android:textSize">18dp</item>  <!--设置大小-->
+        <item name="android:textColor">@color/white</item>  <!--设置字体颜色-->
+        <item name="android:textStyle">bold</item><!--设置字体样式-->
+        <item name="android:background">@color/title_bag</item><!--设置背景颜色-->
+        <item name="android:gravity">center</item><!--设置文字在本控件内部的位置-->
+    </style>
+
+</resources>

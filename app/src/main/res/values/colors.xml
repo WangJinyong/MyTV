@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="title_bag">#0099CC</color>
+    <color name="white">#ffffff</color>
+    <color name="huise_bg">#E7E7E7</color>
+    <color name="black">#000000</color>
+
+    <!-- loading动画时，页面的背景色值 -->
+    <color name="rl_loading_bg">#de262a3b</color>
+    <!-- 播放页panel背景色 -->
+    <color name="player_panel_bg">#dd000000</color>
+</resources>
